@@ -1,6 +1,5 @@
 # MLP-Project
 
-
 A Data Science project developed as part of the IIT Madras BS Diploma in Data Science program, demonstrating practical implementation of data analysis, visualization, and problem-solving using Python and Jupyter Notebook.
 
 ---
@@ -58,5 +57,4 @@ Result Interpretation
 ✔ Statistical Analysis  
 ✔ Data Visualization  
 ✔ Insight Generation  
-✔ Structured Notebook Workflow  
-
+✔ Structured Notebook Workflow 
